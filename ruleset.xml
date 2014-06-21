@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="WordPress Core">
+    <description>WordPress Core Coding Standards</description>
+
+    <rule ref="WordPress/core.ruleset.xml"/>
+</ruleset>
